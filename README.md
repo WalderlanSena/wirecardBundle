@@ -19,4 +19,4 @@ git@github.com:WalderlanSena/wirecardBundle.git
 
 ## License
 
-The Worksena micro-framework is open source software licensed under the <a href="https://github.com/WalderlanSena/wirecardBundle/blob/master/LICENSE">MIT LICENSE</a>
+The wirecardBundle is open source software licensed under the <a href="https://github.com/WalderlanSena/wirecardBundle/blob/master/LICENSE">MIT LICENSE</a>

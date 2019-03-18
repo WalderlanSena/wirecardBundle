@@ -1,0 +1,3 @@
+new_customer:
+  path: /new-register/customer
+  controller: App\Bundles\WirecardBundle\Controller\WirecardNewRegisterCustomerController::newRegisterCustomer
